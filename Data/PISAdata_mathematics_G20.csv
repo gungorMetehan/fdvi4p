@@ -1,18 +1,18 @@
-﻿Countries;PISA2022;PISA2018
-International Average (OECD);472;489
-Argentina;378;379
-Australia;487;491
-Brazil;379;384
-Canada;497;512
-France;474;495
-Germany;475;500
-Hong Kong;540;551
-Indonesia;366;379
-Italy;471;487
-South Korea;527;526
-Macau;552;558
-Mexico;395;409
-Saudi Arabia;389;373
-Turkiye;453;454
-United Kingdom;489;502
-United States;465;478
+﻿Countries,PISA2022,PISA2018
+International Average (OECD),472,489
+Argentina,378,379
+Australia,487,491
+Brazil,379,384
+Canada,497,512
+France,474,495
+Germany,475,500
+Hong Kong,540,551
+Indonesia,366,379
+Italy,471,487
+South Korea,527,526
+Macau,552,558
+Mexico,395,409
+Saudi Arabia,389,373
+Turkiye,453,454
+United Kingdom,489,502
+United States,465,478
