@@ -16,3 +16,9 @@ On this page, I will share codes on how to make fancy plots in R. I think that e
 3) ## $\textcolor{#508AA1}{Line\ Graph\ 3}$ Average Reading Achievement by Gender: Sweden {real data}
    
 ![linegraph3](https://github.com/gungorMetehan/Fancy_Data_Visualization_for_Psychometricians/assets/102655648/8203981f-86a7-4405-a249-2a5777afbfdb)
+
+-----------------------------------------------
+4) ## $\textcolor{#508AA1}{Arrow\ Plot}$ Change in PISA Mathematics Scores in G20 Countries (2018 - 2022) {real data}
+
+![arrowplot](https://github.com/user-attachments/assets/6b1e0c28-1012-4031-a05e-1e1d2a6838ac)
+
