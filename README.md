@@ -20,4 +20,4 @@ On this page, I will share codes on how to make fancy plots in R. I think that e
 -----------------------------------------------
 4) ## $\textcolor{#508AA1}{Arrow\ Plot}$ Change in PISA Mathematics Scores in G20 Countries (2018 - 2022) {real data}
 
-![arrowplot](https://github.com/gungorMetehan/Fancy_Data_Visualization_for_Psychometricians/assets/102655648/fbcb4311-dfd1-4830-acec-1a58b7c0770c)
+![arrowplot](https://github.com/user-attachments/assets/a73ce2aa-5a5b-4148-9404-5d2cd62c8b3a)
