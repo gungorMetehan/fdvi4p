@@ -1,6 +1,6 @@
 # Fancy Data Visualization Ideas for Psychometricians
 
-On this page, I will share codes on how to make fancy plots in R. I think that especially people working in the field of psychometrics/educational measurement and evaluation might reconsider data visualization. Here are some examples:
+On this page, I share R code for creating visually appealing and informative data visualizations. My goal is to inspire researchers and practitioners in psychometrics and educational measurement to explore more effective and engaging ways of presenting their data. Here are a few examples:
 
 -----------------------------------------------
 1) ## $\textcolor{#508AA1}{Line\ Graph\ 1}$ Türkiye versus G7 Countries {real data}
