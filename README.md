@@ -15,7 +15,7 @@ On this page, I share R code for creating visually appealing and informative dat
 -----------------------------------------------
 3) ## $\textcolor{#508AA1}{Line\ Graph\ 3}$ Average Reading Achievement by Gender: Sweden {real data}
    
-![linegraph3](https://github.com/gungorMetehan/Fancy_Data_Visualization_for_Psychometricians/assets/102655648/8203981f-86a7-4405-a249-2a5777afbfdb)
+![linegraph3](https://github.com/user-attachments/assets/46c77730-bdd6-4adc-bd13-f3c38781f509)
 
 -----------------------------------------------
 4) ## $\textcolor{#508AA1}{Arrow\ Plot}$ Change in PISA Mathematics Scores in G20 Countries (2018 - 2022) {real data}
