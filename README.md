@@ -21,3 +21,8 @@ On this page, I share R code for creating visually appealing and informative dat
 4) ## $\textcolor{#508AA1}{Arrow\ Plot}$ Change in PISA Mathematics Scores in G20 Countries (2018 - 2022) {real data}
 
 ![arrowplot](https://github.com/user-attachments/assets/a73ce2aa-5a5b-4148-9404-5d2cd62c8b3a)
+
+-----------------------------------------------
+5) ## $\textcolor{#508AA1}{Bump\ Plot}$ Bump Plot Item Parameter Drift of Anchor Items {simulated data}
+
+![bumpplot](https://github.com/user-attachments/assets/c1a88c13-aec0-4f27-bc3a-01b3ada4fc17)
